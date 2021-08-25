@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="data">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="src\billiards">
+      <UniqueIdentifier>{e67f61a0-2950-45d3-8ed0-19ebb27ca6ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\button">
+      <UniqueIdentifier>{491de9d5-6d6e-4d3b-87d2-f365a8f287c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\music">
+      <UniqueIdentifier>{fe1b80c6-a53a-4ff6-8170-7b349454614a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\paga">
+      <UniqueIdentifier>{a35ee90e-5168-4e1a-b8fe-7e273fa12292}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\sundry">
+      <UniqueIdentifier>{78f05b97-6921-4143-99bd-143b027b8f97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{620694f5-b559-44bb-be4a-74d8dea66c60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib\libgraphics">
+      <UniqueIdentifier>{cef81d1f-3257-4d51-8b40-8afb95c59537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib\simpleGUI">
+      <UniqueIdentifier>{4361ef6a-4177-4325-8b6d-2e80b169dc2d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\billiards\billiardball.c">
+      <Filter>src\billiards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\billiards\billiardrules.c">
+      <Filter>src\billiards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\billiards\billiards.c">
+      <Filter>src\billiards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\billiards\billiardtable.c">
+      <Filter>src\billiards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\billiards\initialbilliardball.c">
+      <Filter>src\billiards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\billiards\showbilliarball.c">
+      <Filter>src\billiards</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\button\button.c">
+      <Filter>src\button</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\button\buttonrespond.c">
+      <Filter>src\button</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\button\drawbutton.c">
+      <Filter>src\button</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\button\intialbutton.c">
+      <Filter>src\button</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\music\music.c">
+      <Filter>src\music</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\sundry\sundry.c">
+      <Filter>src\sundry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\page\gamepage.c">
+      <Filter>src\paga</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\page\loginpage.c">
+      <Filter>src\paga</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\page\openpage.c">
+      <Filter>src\paga</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\page\page.c">
+      <Filter>src\paga</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\main.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lib\libgraphics\exceptio.c">
+      <Filter>lib\libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lib\libgraphics\genlib.c">
+      <Filter>lib\libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lib\libgraphics\graphics.c">
+      <Filter>lib\libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lib\libgraphics\linkedlist.c">
+      <Filter>lib\libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lib\libgraphics\random.c">
+      <Filter>lib\libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lib\libgraphics\simpio.c">
+      <Filter>lib\libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lib\libgraphics\strlib.c">
+      <Filter>lib\libgraphics</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lib\simpleGUI\imgui.c">
+      <Filter>lib\simpleGUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\billiards\billiards.h">
+      <Filter>src\billiards</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\button\button.h">
+      <Filter>src\button</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\music\music.h">
+      <Filter>src\music</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\sundry\sundry.h">
+      <Filter>src\sundry</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\page\page.h">
+      <Filter>src\paga</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\boolean.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\exception.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\extgraph.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\gcalloc.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\genlib.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\graphics.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\linkedlist.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\random.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\simpio.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\libgraphics\strlib.h">
+      <Filter>lib\libgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lib\simpleGUI\imgui.h">
+      <Filter>lib\simpleGUI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "billiardsgame", "billiardsgame\billiardsgame.vcxproj", "{36DBFBDE-E2A5-43EA-A724-907EB4D99170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36DBFBDE-E2A5-43EA-A724-907EB4D99170}.Debug|x64.ActiveCfg = Debug|x64
+		{36DBFBDE-E2A5-43EA-A724-907EB4D99170}.Debug|x64.Build.0 = Debug|x64
+		{36DBFBDE-E2A5-43EA-A724-907EB4D99170}.Debug|x86.ActiveCfg = Debug|Win32
+		{36DBFBDE-E2A5-43EA-A724-907EB4D99170}.Debug|x86.Build.0 = Debug|Win32
+		{36DBFBDE-E2A5-43EA-A724-907EB4D99170}.Release|x64.ActiveCfg = Release|Win32
+		{36DBFBDE-E2A5-43EA-A724-907EB4D99170}.Release|x64.Build.0 = Release|Win32
+		{36DBFBDE-E2A5-43EA-A724-907EB4D99170}.Release|x86.ActiveCfg = Release|Win32
+		{36DBFBDE-E2A5-43EA-A724-907EB4D99170}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8519E9-CA03-4A4C-8FDC-ED13366702E7}
+	EndGlobalSection
+EndGlobal

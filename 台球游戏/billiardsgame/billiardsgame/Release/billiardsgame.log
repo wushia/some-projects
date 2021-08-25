@@ -1,0 +1,68 @@
+﻿D:\VS\IDE\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  exceptio.c
+  genlib.c
+  graphics.c
+d:\git学习资料\some-projects\台球游戏\lib\libgraphics\graphics.c(826): warning C4101: “consoleRect”: 未引用的局部变量
+d:\git学习资料\some-projects\台球游戏\lib\libgraphics\graphics.c(1309): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\git学习资料\some-projects\台球游戏\lib\libgraphics\graphics.c(1310): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\git学习资料\some-projects\台球游戏\lib\libgraphics\graphics.c(1311): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\git学习资料\some-projects\台球游戏\lib\libgraphics\graphics.c(1697): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  linkedlist.c
+  random.c
+  simpio.c
+  strlib.c
+d:\git学习资料\some-projects\台球游戏\lib\libgraphics\strlib.c(139): warning C4018: “>”: 有符号/无符号不匹配
+d:\git学习资料\some-projects\台球游戏\lib\libgraphics\strlib.c(152): warning C4018: “>”: 有符号/无符号不匹配
+  imgui.c
+  billiardball.c
+  billiardrules.c
+d:\git学习资料\some-projects\台球游戏\src\billiards\billiardrules.c(477): warning C4101: “i”: 未引用的局部变量
+  billiards.c
+d:\git学习资料\some-projects\台球游戏\src\billiards\billiards.c(154): warning C4013: “InitialSidePocketBallList”未定义；假设外部返回 int
+d:\git学习资料\some-projects\台球游戏\src\billiards\billiards.c(154): warning C4047: “=”:“billiardball *”与“int”的间接级别不同
+  billiardtable.c
+d:\git学习资料\some-projects\台球游戏\src\billiards\billiardtable.c(645): warning C4013: “ShowScore”未定义；假设外部返回 int
+d:\git学习资料\some-projects\台球游戏\src\billiards\billiardtable.c(646): warning C4013: “ShowTurn”未定义；假设外部返回 int
+  initialbilliardball.c
+  showbilliarball.c
+d:\git学习资料\some-projects\台球游戏\src\billiards\showbilliarball.c(28): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\git学习资料\some-projects\台球游戏\src\billiards\showbilliarball.c(52): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\git学习资料\some-projects\台球游戏\src\billiards\showbilliarball.c(109): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  button.c
+  buttonrespond.c
+  drawbutton.c
+d:\git学习资料\some-projects\台球游戏\src\button\drawbutton.c(14): warning C4101: “y1”: 未引用的局部变量
+d:\git学习资料\some-projects\台球游戏\src\button\drawbutton.c(14): warning C4101: “x1”: 未引用的局部变量
+d:\git学习资料\some-projects\台球游戏\src\button\drawbutton.c(328): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\git学习资料\some-projects\台球游戏\src\button\drawbutton.c(474): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+d:\git学习资料\some-projects\台球游戏\src\button\drawbutton.c(513): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  intialbutton.c
+  main.c
+d:\git学习资料\some-projects\台球游戏\src\main.c(56): warning C4013: “InitialOpeningPage”未定义；假设外部返回 int
+d:\git学习资料\some-projects\台球游戏\src\main.c(65): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  music.c
+  正在编译...
+  gamepage.c
+d:\git学习资料\some-projects\台球游戏\src\page\gamepage.c(36): warning C4013: “GameRule”未定义；假设外部返回 int
+  loginpage.c
+d:\git学习资料\some-projects\台球游戏\src\page\loginpage.c(111): warning C4101: “i”: 未引用的局部变量
+  openpage.c
+d:\git学习资料\some-projects\台球游戏\src\page\openpage.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  page.c
+d:\git学习资料\some-projects\台球游戏\src\page\page.c(25): warning C4013: “ShowBackGround”未定义；假设外部返回 int
+d:\git学习资料\some-projects\台球游戏\src\page\page.c(27): warning C4013: “DrawAmericanTable”未定义；假设外部返回 int
+d:\git学习资料\some-projects\台球游戏\src\page\page.c(98): warning C4013: “DisPlayOpeningPage”未定义；假设外部返回 int
+d:\git学习资料\some-projects\台球游戏\src\page\page.c(173): warning C4013: “CloseAccount”未定义；假设外部返回 int
+d:\git学习资料\some-projects\台球游戏\src\page\page.c(221): warning C4013: “Login”未定义；假设外部返回 int
+d:\git学习资料\some-projects\台球游戏\src\page\page.c(249): warning C4013: “Register”未定义；假设外部返回 int
+d:\git学习资料\some-projects\台球游戏\src\page\page.c(94): warning C4101: “LoginState”: 未引用的局部变量
+d:\git学习资料\some-projects\台球游戏\src\page\page.c(94): warning C4101: “RegisterState”: 未引用的局部变量
+  sundry.c
+d:\git学习资料\some-projects\台球游戏\src\sundry\sundry.c(79): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+d:\git学习资料\some-projects\台球游戏\src\page\loginpage.c(192): warning C4715: “CloseAccount”: 不是所有的控件路径都返回值
+  204 of 206 functions (99.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  billiardsgame.vcxproj -> D:\git学习资料\some-projects\台球游戏\billiardsgame\\billiardsgame\billiardsgame.exe
